@@ -6,9 +6,9 @@ region = "eu-north-1"
 
 }
 
-resource "aws_s3_bucket" "first" {
+resource "aws_s3_bucket" "second" {
 
-bucket = "ldtech.s3.bucket.pkr500"
+bucket = "ldtech.s3.bucket.pkr49003"
 
 
 }
